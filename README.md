@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Programming**
 
-- 📫 How to reach me **byrrajuvishnuvardhan@gmail.com**
+- 📫 How to reach me **[Gmail](byrrajuvishnuvardhan@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
