@@ -7,5 +7,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ... Studying 1st Year B-Tech In AI&DS Branch
 - 🤔 I’m looking for help with ... Helping Me In Learning Of C Language & Python In Advance
 - 💬 Ask me about ... About Programming
-- 📫 How to reach me: ... [Gmail](byrrajuvishnuvardhan@gmail.com)
+- 📫 How to reach me: ... [Gmail](byrrajuvishnuvardhan@gmail.com),[LinkedIn](https://www.linkedin.com/in/vishnu-vardhan-varma-byrraju-496633247)
 -->
