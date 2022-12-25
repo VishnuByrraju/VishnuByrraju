@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishnu Vardhan Varma Byrraju</h1>
 <h3 align="center">A Passionate Student</h3>
 
-- 🔭 I’m currently working on **C Language & Python**
+- 🔭 I’m currently working on **C Language , Python & React Native**
 
 - 🌱 I’m currently learning **Studying 1st Year B-Tech In AI&DS Branch**
 
