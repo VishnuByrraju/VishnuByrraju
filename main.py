@@ -1,3 +1,7 @@
 import requests
-req = requests.get(url='https://www.amazon.in')
-print(req)
+para = {
+  "prompt":"write a code for request library in python and also write in functions"
+}
+req = requests.post(url='https://q1ldcp2pw8.execute-api.us-east-1.amazonaws.com/dev', params=para)
+
+print(req.text)
