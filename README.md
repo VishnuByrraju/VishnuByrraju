@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **C Language , Python & React Native**
 
-- 🌱 I’m currently learning **Studying 1st Year B-Tech In AI&DS Branch**
+- 🌱 I’m currently learning **Studying 2nd Year B-Tech In AI&DS Branch**
 
 - 🤝 I’m looking for help with **Helping Me In Learning Of C Language & Python In Advance**
 
