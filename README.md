@@ -10,7 +10,7 @@
 ---
 
 ### 🚀 About Me  
-- 🎓 **Currently Studying**: 2nd Year B-Tech in **AI & DS**  
+- 🎓 **Currently Studying**: 3nd Year B-Tech in **AI & DS**  
 - 🔭 **Working On**: Python, C, FastAPI, React Native  
 - 🌱 **Learning**: Advanced Python, Redis, Kafka, MongoDB, and Cloud Deployment  
 - 🤝 **Looking for Collaborations**: AI/ML projects, Backend Development, Cloud-based applications  
@@ -58,14 +58,6 @@
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VishnuVardhanVarma&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VishnuVardhanVarma&theme=radical" alt="GitHub Streak" />
-</p>
-
----
 
 ### ⚡ Fun Fact  
 💡 I love exploring new tech stacks and optimizing system performance!
